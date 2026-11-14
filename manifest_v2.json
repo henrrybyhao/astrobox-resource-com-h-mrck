@@ -7,13 +7,13 @@
     "preview": [
       "media/01_home_raw.png",
       "media/01_home_frame.png",
-      "media/02_about_frame.png",
       "media/03_settings_frame.png",
       "media/03_settings_raw.png",
       "media/05_characters_raw.png",
       "media/07_life_raw.png",
-      "media/05_characters_frame.png",
-      "media/07_life_frame.png"
+      "media/02_about_raw.png",
+      "media/04_achievements_raw.png",
+      "media/08_events_raw.png"
     ],
     "icon": "media/名人重开_应用图标_100x100.png",
     "cover": "media/名人重开_头图_1200x800.jpg",
